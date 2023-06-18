@@ -17,4 +17,3 @@ To develop this app i used python FastApi and for database i used mongodb.
 # Screenshots (automatic saved to the database)
 ![Screenshot (66)](https://github.com/Muntasirul-2002/Notes_webapp_FastApi/assets/108189526/34032242-8394-40a8-a064-97537f6fc05f)
 
-# Demo link
