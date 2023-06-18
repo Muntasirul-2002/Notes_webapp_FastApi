@@ -3,10 +3,10 @@ This is a NotesWebApp in which your notes will be directly uploaded into databas
 To develop this app i used python FastApi and for database i used mongodb.
 
 # Python packages:
- •pip install fastapi
- •pip install "uvicorn[standard]"
- •pip install jinja2 
- •pip install pymongo 
+    •pip install fastapi
+        •pip install "uvicorn[standard]"
+    •pip install jinja2 
+        •pip install pymongo 
 
 # To run this fastapi application follow this command:
 •uvicorn index:app --reload    
