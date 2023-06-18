@@ -9,7 +9,7 @@ To develop this app i used python FastApi and for database i used mongodb.
         •pip install pymongo 
 
 # To run this fastapi application follow this command:
-•uvicorn index:app --reload    
+    •uvicorn index:app --reload    
 
 # Screenshot (homepage)
 ![Screenshot (65)](https://github.com/Muntasirul-2002/Notes_webapp_FastApi/assets/108189526/424af3a9-4ec8-4945-8101-936d35b7c7c1)
